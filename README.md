@@ -15,10 +15,10 @@ docker container run -d --name spring-8081 -p 8081:8080 marvino1/spring-boot-dem
 ```
 http://localhost:8080
 ```
-To see the greeting message as well as the counter.
+* To see the greeting message as well as the counter.
 
 ```
 http://localhost:8080/actuator/
 ```
-To see all actuator endpoints. 
+* To see all actuator endpoints. 
 
